@@ -60,7 +60,7 @@
     }
   ],
   "dependencies": {
-    "superagent": "https://github.com/wercker/superagent/tarball/feature/qsupdate",
+    "superagent": "git+https://github.com/wercker/superagent.git#feature/qsupdate",
     "underscore": "~1.5.2"
   },
   "devDependencies": {
